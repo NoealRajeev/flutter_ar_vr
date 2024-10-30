@@ -1,0 +1,8 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+  package="in.ind.breakthrough.flutter_ar_vr">
+    <application>
+        <meta-data
+            android:name="com.google.ar.core"
+            android:value="required" />
+    </application>
+</manifest>
